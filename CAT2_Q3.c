@@ -1,3 +1,9 @@
+/*
+name:EVANS KOMAREN SEKUT
+reg no:CT101/G/22798/24
+description:file_handling
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -100,4 +106,5 @@ int main() {
     displayFiles();
 
     return 0;
+
 }
