@@ -1,3 +1,9 @@
+/*
+name:EVANS KOMAREN SEKUT
+reg no:CT101/G/22798/24
+description:user_paying
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -32,4 +38,5 @@ int main() {
     printf("Net pay: $%.2lf\n", net);
 
     return 0;
+
 }
